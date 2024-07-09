@@ -1,8 +1,8 @@
-# CatPhotoApp
+# Cat Personality Form
 
 ## Summary
 
-CatPhotoApp is a simple web form designed for cat enthusiasts. It features a collection of cat photos, lists of things that cats love and hate, and a form for users to submit their own cat photo URLs. This app aims to provide an enjoyable browsing experience for all cat lovers.
+Cat Personality Form is a simple web form designed for cat enthusiasts. It features a collection of cat photos, lists of things that cats love and hate, and a form for users to submit their own cat photo URLs. This app aims to provide an enjoyable browsing experience for all cat lovers.
 
 ## Features
 
@@ -30,11 +30,3 @@ CatPhotoApp is a simple web form designed for cat enthusiasts. It features a col
 
 ### Additional Elements
 - **Figures:** Images with captions providing additional context and fun facts about cats.
-
-## Purpose
-
-The purpose of CatPhotoApp is to create a delightful and interactive experience for cat lovers. By showcasing adorable cat photos and providing interesting lists about cats, the app aims to engage users and encourage them to share their own cat photos.
-
----
-
-No Copyright - [freeCodeCamp.org](https://www.freecodecamp.org)
