@@ -2,7 +2,7 @@
 
 ## Summary
 
-CatPhotoApp is a simple and fun web application designed for cat enthusiasts. It features a collection of cat photos, lists of things that cats love and hate, and a form for users to submit their own cat photo URLs. This app aims to provide an enjoyable browsing experience for all cat lovers.
+CatPhotoApp is a simple web form designed for cat enthusiasts. It features a collection of cat photos, lists of things that cats love and hate, and a form for users to submit their own cat photo URLs. This app aims to provide an enjoyable browsing experience for all cat lovers.
 
 ## Features
 
